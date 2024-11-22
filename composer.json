@@ -1,0 +1,21 @@
+{
+    "name": "david/intervals-dedupe",
+    "autoload": {
+        "psr-4": {
+            "David\\IntervalsDedupe\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "David Pugh",
+            "email": "plastonick@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.3",
+        "vlucas/phpdotenv": "^5.6",
+        "guzzlehttp/guzzle": "^7.9",
+        "cakephp/chronos": "^3.1",
+        "cuyz/valinor": "^1.14"
+    }
+}
